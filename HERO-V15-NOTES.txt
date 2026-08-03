@@ -1,0 +1,7 @@
+AJAYNXT V15 HERO PREVIEW
+- Uses the exact selected neural/portrait composition as the hero visual.
+- Original reference text is covered with a black gradient; AJAYNXT copy is live HTML.
+- Face/image is not regenerated or altered.
+- Mouse movement is a subtle whole-image parallax only.
+- Mobile layout uses the same visual with a safe crop.
+- PDF asset and public PDF footer link removed.
